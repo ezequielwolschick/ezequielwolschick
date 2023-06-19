@@ -17,7 +17,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ezequielwolschick&show_icons=true&count_private=true&hide_border=true&title_color=696969&icon_color=696969&text_color=696969&bg_color="0D1117 alt="ezequielwolschick github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ezequielwolschick&show_icons=true&count_private=true&hide_border=true&title_color=696969&icon_color=696969&text_color=696969&bg_color=" alt="ezequielwolschick github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielwolschick&layout=compact&hide_border=true&title_color=696969&text_color=696969&bg_color=0D1117" />
 </div>
 
