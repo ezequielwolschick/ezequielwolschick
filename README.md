@@ -1,20 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffffff&height=120&section=header"/>
+
+### Olá! Eu sou a Gabrielly Sant'Ana, mais conhecida como GabiCode 👋
+
+💡 &nbsp; Olá a todos, sou formado em 2022 pela BTech CSE. Amo codificar, explorando Data Science atualmente. Gosto de colaborar com pessoas em trabalhos de interesse semelhante.
+
+🌱 &nbsp;Estou no caminho certo para aprender mais sobre Inteligência Artificial, Machine Learning e Data Science.\
+✍️ &nbsp;Além dos interesses técnicos, gosto de dançar, assistir filmes, ler romances, jogar xadrez e badminton.\
+💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para consultoria geral ou discussões \
+✉️ &nbsp;Você pode me enviar um e-mail para avinash201199@gmail.com. Tentarei responder o mais rápido possível!\
+📄 &nbsp;Você pode verificar meu [Currículo](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) para obter mais detalhes sobre minha experiência de trabalho.
 
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A8A9AC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Github Stats</h1>
 
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+ 
+ 
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
 <br>
-<br>
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ezequielwolschick&show_icons=true&count_private=true&hide_border=true&title_color=A8A9AC&icon_color=A8A9AC&text_color=A8A9AC&bg_color=00000003" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielwolschick&layout=compact&hide_border=true&title_color=A8A9AC&text_color=A8A9AC&bg_color=00000003" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielwolschick&bg_color=0000003&color=A8A9AC&line=A8A9AC&point=ffffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffffff&height=120&section=footer"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
