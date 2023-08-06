@@ -18,7 +18,7 @@
 
  </div>
  
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&bg_color=00000003&title_color=ffffffff&icon_color=ffffffff&text_color=ffffffff" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&bg_color=00000003&title_color=ffffffff&text_color=ffffffff" width="46%" />
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ezequielwolschick&&show_icons=true&bg_color=00000003&title_color=ffffffff&icon_color=ffffffff&text_color=ffffffff" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielwolschick&layout=compact&bg_color=00000003&title_color=ffffffff&text_color=ffffffff" width="46%" />
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
+<img src="https://activity-graph.herokuapp.com/graph?username=ezequielwolschick&theme=xcode">
