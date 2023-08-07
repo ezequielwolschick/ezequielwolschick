@@ -4,8 +4,8 @@
 🤍 &nbsp; Olá a todos Amo codificar, explorando Data Science atualmente. Gosto de colaborar com pessoas em trabalhos de interesses semelhante. \
 ⚪ &nbsp;Estou no caminho certo para aprender mais sobre Robotica, Linguagem Backend e Data Science.\
 🏳️ &nbsp;Além dos interesses técnicos, gosto de tocar contrabaixo, assistir filmes, ouvir musicas, jogar basquete e volei.\
-✉️ &nbsp;Você pode me enviar um e-mail para avinash201199@gmail.com. Tentarei responder o mais rápido possível!\
-📄 &nbsp;Você pode verificar meu [Currículo](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) para obter mais detalhes sobre minha experiência de trabalho.
+✉️ &nbsp;Você pode me enviar um e-mail para ezequielwolschickdasilva@gmail.com. Tentarei responder o mais rápido possível!\
+📄 &nbsp;Você pode verificar meu [Portfólio](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) para obter mais detalhes sobre minha experiência de trabalho.
 
 <br>
 <br>
