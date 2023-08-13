@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Ezequiel Wolschick, mais conhecido como Mister 👋
 
-🤍 &nbsp; Olá a todos Amo codificar, explorando Data Science atualmente. Gosto de colaborar com pessoas em trabalhos de interesses semelhante. \
+🤍 &nbsp; Olá, a todos Amo codificar, explorando Data Science atualmente. Gosto de colaborar com pessoas em trabalhos de interesses semelhante. \
 ⚪ &nbsp;Estou no caminho certo para aprender mais sobre Robotica, Linguagem Backend e Data Science.\
 🏳️ &nbsp;Além dos interesses técnicos, gosto de tocar contrabaixo, assistir filmes, ouvir musicas, jogar basquete e volei.\
 ✉️ &nbsp;Você pode me enviar um e-mail para ezequielwolschickdasilva@gmail.com. Tentarei responder o mais rápido possível!\
