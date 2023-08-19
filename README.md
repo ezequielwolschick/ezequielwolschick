@@ -5,7 +5,7 @@
 ⚪ &nbsp;Estou no caminho certo para aprender mais sobre Robotica, Linguagem Backend e Data Science.\
 🏳️ &nbsp;Além dos interesses técnicos, gosto de tocar contrabaixo, assistir filmes, ouvir musicas, jogar basquete e volei.\
 ✉️ &nbsp;Você pode me enviar um e-mail para ezequielwolschickdasilva@gmail.com. Tentarei responder o mais rápido possível!\
-📄 &nbsp;ocê pode verificar meu [Portfólio](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) para obter mais detalhes sobre minha experiência de trabalho.
+📄 &nbsp;Você pode verificar meu [Portfólio](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) para obter mais detalhes sobre minha experiência de trabalho.
 
 <br>
 <br>
