@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Ezequiel Wolschick, mais conhecido como Mister 👋
+### Olá! Eu sou o Ezequiel Wolschick, mais conhecido como Mister 
 
 🤍 &nbsp; Olá a todos, Amo codificar, explorando Data Science atualmente. Gosto de colaborar com pessoas em trabalhos de interesses semelhante. \
 ⚪ &nbsp;Estou no caminho certo para aprender mais sobre Robotica, Linguagem Backend e Data Science.\
